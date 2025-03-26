@@ -1,0 +1,2 @@
+# Combinational Circuit Design of RGB LED using K-Maps
+The folder contains the System Verilog code for structural modelling, consraint file for synthesizing the circuit on FPGA , and test bench code for simulating the circuit provided in Figure in the manual.
